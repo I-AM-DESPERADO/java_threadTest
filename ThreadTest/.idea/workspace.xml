@@ -10,6 +10,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.18.5" />
+      </map>
+    </option>
+  </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/ThreadTest$MyThread.coverage" NAME="MyThread Coverage Results" MODIFIED="1521164590110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.tz.threadTest.*</FILTER>
@@ -17,51 +24,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HasSelfPrivateNum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/lockTest/HasSelfPrivateNum.java">
+      <file leaf-file-name="ThreadA.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synTowLock/ThreadA.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            <state relative-caret-position="270">
+              <caret line="10" column="19" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ThreadA.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/lockTest/ThreadA.java">
+      <file leaf-file-name="Service.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synTowLock/Service.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="270">
+              <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Run.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/lockTest/Run.java">
+        <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synTowLock/Run.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ThreadB.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/lockTest/ThreadB.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HasSelfPrivateNum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/test2/HasSelfPrivateNum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="19" column="22" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
+            <state relative-caret-position="432">
+              <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -84,57 +71,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/tz/threadTest/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/com/tz/threadTest/MyThread1.java" />
-        <option value="$PROJECT_DIR$/src/com/tz/runableTest/RunableTest.java" />
-        <option value="$PROJECT_DIR$/src/com/tz/com/tz/shareThread.java" />
-        <option value="$PROJECT_DIR$/src/com/tz/threadTest/MyThread2.java" />
-        <option value="$PROJECT_DIR$/src/com/tz/shareThread/shareThread.java" />
-        <option value="$PROJECT_DIR$/src/com/tz/shareThread/ShareThread.java" />
-        <option value="$PROJECT_DIR$/src/com/tz/shareThread/ShareThread1.java" />
-        <option value="$PROJECT_DIR$/src/com/tz/shareThread/ShareThread2.java" />
-        <option value="$PROJECT_DIR$/src/com/tz/functionTest/CountOpertrate.java" />
-        <option value="$PROJECT_DIR$/src/com/tz/functionTest/IsAliveTest.java" />
-        <option value="$PROJECT_DIR$/src/com/tz/functionTest/IsAliveTest1.java" />
-        <option value="$PROJECT_DIR$/src/com/tz/functionTest/sleepTest.java" />
-        <option value="$PROJECT_DIR$/src/com/tz/functionTest/SleepTest.java" />
-        <option value="$PROJECT_DIR$/src/com/tz/StopThread/InterruptTest.java" />
-        <option value="$PROJECT_DIR$/src/com/tz/StopThread/SleepThreadTest.java" />
-        <option value="$PROJECT_DIR$/src/com/tz/StopThread/StopThreadTest.java" />
-        <option value="$PROJECT_DIR$/src/com/tz/StopThread/StopSleep1.java" />
-        <option value="$PROJECT_DIR$/src/com/tz/StopThread/StopSleep2.java" />
-        <option value="$PROJECT_DIR$/src/com/tz/StopThread/StopThread.java" />
-        <option value="$PROJECT_DIR$/src/com/tz/StopThread/model/synchronizedObject.java" />
-        <option value="$PROJECT_DIR$/src/com/tz/StopThread/StopThread1.java" />
-        <option value="$PROJECT_DIR$/src/com/tz/StopThread/ReturnStopThread.java" />
-        <option value="$PROJECT_DIR$/src/com/tz/suspendTest/SuspendTestThread.java" />
-        <option value="$PROJECT_DIR$/src/com/tz/suspendTest/model/SynchronizedObject.java" />
-        <option value="$PROJECT_DIR$/src/com/tz/suspendTest/SuspendTestThread1.java" />
-        <option value="$PROJECT_DIR$/src/com/tz/suspendTest/model/MyObject.java" />
-        <option value="$PROJECT_DIR$/src/com/tz/suspendTest/SuspendTestThread2.java" />
-        <option value="$PROJECT_DIR$/src/com/tz/yieldTest/YieldTestThread.java" />
-        <option value="$PROJECT_DIR$/src/com/tz/priorityTest/priorityTestThread.java" />
-        <option value="$PROJECT_DIR$/src/com/tz/priorityTest/PriorityTestThread1.java" />
-        <option value="$PROJECT_DIR$/src/com/tz/priorityTest/Run.java" />
-        <option value="$PROJECT_DIR$/src/com/tz/priorityTest/ThreadA.java" />
-        <option value="$PROJECT_DIR$/src/com/tz/priorityTest/ThreadB.java" />
-        <option value="$PROJECT_DIR$/src/com/tz/priorityTest/Run1.java" />
-        <option value="$PROJECT_DIR$/src/com/tz/daemonThread/DaemonTestThread.java" />
-        <option value="$PROJECT_DIR$/src/com/tz2/synch/HasSelfPrivateNum.java" />
-        <option value="$PROJECT_DIR$/src/com/tz2/synch/ThreadA.java" />
-        <option value="$PROJECT_DIR$/src/com/tz2/synch/test1/ThreadB.java" />
-        <option value="$PROJECT_DIR$/src/com/tz2/synch/test1/HasSelfPrivateNum.java" />
-        <option value="$PROJECT_DIR$/src/com/tz2/synch/test1/Run.java" />
-        <option value="$PROJECT_DIR$/src/com/tz2/synch/test1/ThreadA.java" />
-        <option value="$PROJECT_DIR$/src/com/tz2/synch/test2/threadA.java" />
-        <option value="$PROJECT_DIR$/src/com/tz2/synch/test2/ThreadB.java" />
-        <option value="$PROJECT_DIR$/src/com/tz2/synch/test2/Run.java" />
-        <option value="$PROJECT_DIR$/src/com/tz2/synch/test2/ThreadA.java" />
-        <option value="$PROJECT_DIR$/src/com/tz2/synch/test2/HasSelfPrivateNum.java" />
-        <option value="$PROJECT_DIR$/src/com/tz2/synch/lockTest/HasSelfPrivateNum.java" />
-        <option value="$PROJECT_DIR$/src/com/tz2/synch/lockTest/ThreadA.java" />
-        <option value="$PROJECT_DIR$/src/com/tz2/synch/lockTest/ThreadB.java" />
-        <option value="$PROJECT_DIR$/src/com/tz2/synch/lockTest/Run.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synCodeBlock/SynCodeBlockTestThreadA.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synCodeBlock/SynCodeBlockTestThreadB.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synCodeBlock/Run.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synCodeBlock2/CommonUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synCodeBlock2/Task.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synCodeBlock3/ThreadA.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synCodeBlock3/ThreadB.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synCodeBlock3/Run.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/SysBlock/ObjectService.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/SysBlock/ThreadA.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synDisadvantage/CommonUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synDisadvantage/Task.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synCodeBlock3/Task.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/dirtyRead/PublicVar.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synCodeBlock4/ThreadA.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synCodeBlock4/ThreadB.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synCodeBlock4/Run.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synCodeBlock4/Service.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synTest.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synTest/Service.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synTest/ThreadA.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synTest/ThreadB.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synTest/Run.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synTest1/MyList.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synTest1/ThreadA.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synTest1/Run.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synTest1/ThreadB.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synTest2/MyOneList.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synTest2/MyThread1.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synTest2/MyThread2.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synTest2/Run.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synTest2/MyService.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synBlockLockAll/ThreadA.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synBlockLockAll/ThreadB.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synBlockLockAll/Service.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synBlockLockAll/Run.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synBlockLockAll/Run2.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synBlockLockAll2/Service.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synBlockLockAll2/ThreadA.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synBlockLockAll2/ThreadB.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synBlockLockAll2/Run.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synBlockLockAll2/MyObject.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synStaticMethod/ThreadA.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synStaticMethod/ThreadB.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synStaticMethod/Run.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synStaticMethod/Service.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synTowLock/ThreadA.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synTowLock/ThreadB.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synTowLock/ThreadC.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synTowLock/Run.java" />
+        <option value="$PROJECT_DIR$/src/com/tz2/synch/synTowLock/Service.java" />
       </list>
     </option>
   </component>
@@ -144,11 +131,30 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-48" />
     <option name="y" value="37" />
     <option name="width" value="1932" />
     <option name="height" value="1047" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Checkstyle</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CheckStyle</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -165,10 +171,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -194,6 +200,23 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="synch" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ThreadTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThreadTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="synch" type="462c0819:PsiDirectoryNode" />
+              <item name="synTowLock" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThreadTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThreadTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="synch" type="462c0819:PsiDirectoryNode" />
+              <item name="synTowLock" type="462c0819:PsiDirectoryNode" />
+              <item name="Service" type="1a9f42e2:ClassTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -204,10 +227,18 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\github_repository\java_threadTest\ThreadTest" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.tz2.synch.lockTest" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\github_repository\java_threadTest\ThreadTest" />
+      <recent name="E:\github_repository\java_threadTest\ThreadTest\src\com\tz2\synch\synCodeBlock2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -223,52 +254,14 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Run (3)">
-    <configuration name="DaemonTestThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.tz.daemonThread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.tz.daemonThread.DaemonTestThread" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ThreadTest" />
-      <envs />
-    </configuration>
     <configuration name="Run (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.tz2.synch.test1.*" />
+          <option name="PATTERN" value="com.tz2.synch.synBlockLockAll2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.tz2.synch.test1.Run" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ThreadTest" />
-      <envs />
-    </configuration>
-    <configuration name="Run (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.tz2.synch.test2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.tz2.synch.test2.Run" />
+      <option name="MAIN_CLASS_NAME" value="com.tz2.synch.synBlockLockAll2.Run" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -283,11 +276,11 @@
     <configuration name="Run (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.tz2.synch.lockTest.*" />
+          <option name="PATTERN" value="com.tz2.synch.synTowLock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.tz2.synch.lockTest.Run" />
+      <option name="MAIN_CLASS_NAME" value="com.tz2.synch.synTowLock.Run" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -299,14 +292,52 @@
       <module name="ThreadTest" />
       <envs />
     </configuration>
-    <configuration name="Run1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Run (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.tz.priorityTest.*" />
+          <option name="PATTERN" value="com.tz2.synch.synStaticMethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.tz.priorityTest.Run1" />
+      <option name="MAIN_CLASS_NAME" value="com.tz2.synch.synStaticMethod.Run" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ThreadTest" />
+      <envs />
+    </configuration>
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.tz2.synch.synBlockLockAll.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.tz2.synch.synBlockLockAll.Run" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ThreadTest" />
+      <envs />
+    </configuration>
+    <configuration name="Run2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.tz2.synch.synBlockLockAll.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.tz2.synch.synBlockLockAll.Run2" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -334,19 +365,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Run1" />
-      <item index="1" class="java.lang.String" itemvalue="Application.DaemonTestThread" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Run" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Run2" />
       <item index="2" class="java.lang.String" itemvalue="Application.Run (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Run (2)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Run (4)" />
       <item index="4" class="java.lang.String" itemvalue="Application.Run (3)" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Application.Run (3)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Run (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Run (4)" />
         <item index="2" class="java.lang.String" itemvalue="Application.Run (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.DaemonTestThread" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Run1" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Run2" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Run" />
       </list>
     </recent_temporary>
   </component>
@@ -370,41 +401,63 @@
       <workItem from="1521335981143" duration="14212000" />
       <workItem from="1521515576780" duration="23239000" />
       <workItem from="1521716980235" duration="10000" />
+      <workItem from="1521717330951" duration="2937000" />
+      <workItem from="1521722384441" duration="23000" />
+      <workItem from="1522044891811" duration="7454000" />
+      <workItem from="1522627337422" duration="6288000" />
+      <workItem from="1522805105315" duration="544000" />
+      <workItem from="1522805676779" duration="2497000" />
+      <workItem from="1522844908701" duration="169000" />
+      <workItem from="1522980446917" duration="90000" />
+      <workItem from="1522980563867" duration="1700000" />
+      <workItem from="1522993774024" duration="646000" />
+      <workItem from="1522998091970" duration="12108000" />
+      <workItem from="1523084219314" duration="1681000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52296000" />
+    <option name="totallyTimeSpent" value="88433000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3794643" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33035713" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26599148" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20202559" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39955357" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39955357" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3794643" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -417,376 +470,355 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/tz/runableTest/RunableTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synCodeBlock2/SynDisTestThread2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="5" column="17" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="8" selection-end-column="5" />
-          <folding />
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz/threadTest/MyThread.java">
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/lockTest2/LockThreadA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        <state relative-caret-position="297">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz/threadTest/MyThread2.java">
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/lockTest2/LockThreadB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1242">
-          <caret line="46" column="8" lean-forward="false" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
+        <state relative-caret-position="270">
+          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz/threadTest/MyThread1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="28" column="9" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/lockTest2/Run.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="5" column="17" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="8" selection-end-column="5" />
-          <folding />
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz/threadTest/MyThread.java">
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/lockReentry/LockReentryTestThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        <state relative-caret-position="324">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz/runableTest/RunableTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz/threadTest/MyThread2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz/threadTest/MyThread1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="26" column="35" lean-forward="false" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz/shareThread/ShareThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz/shareThread/ShareThread1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="30" column="12" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="33" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz/shareThread/ShareThread2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz/functionTest/CountOpertrate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="25" column="23" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-18454">
-          <caret line="140" column="6" lean-forward="false" selection-start-line="140" selection-start-column="6" selection-end-line="140" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz/functionTest/IsAliveTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/lockReentry/Run.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz/functionTest/IsAliveTest1.java">
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/lockReentry/Service.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="32" column="18" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="34" selection-end-column="1" />
+        <state relative-caret-position="351">
+          <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz/functionTest/SleepTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/dirtyRead/DirtyReadTestThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="20" column="10" lean-forward="false" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        <state relative-caret-position="270">
+          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz/StopThread/InterruptTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/dirtyRead/PublicVar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        <state relative-caret-position="146">
+          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz/StopThread/StopThreadTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synCodeBlock4/ThreadA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1107">
-          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+        <state relative-caret-position="351">
+          <caret line="13" column="14" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz/StopThread/StopSleep1.java">
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synCodeBlock4/ThreadB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="30" column="9" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
+        <state relative-caret-position="189">
+          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz/StopThread/StopSleep2.java">
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synCodeBlock4/Run.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz/StopThread/StopThread.java">
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synTest/ThreadA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="32" column="9" lean-forward="false" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+        <state relative-caret-position="378">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz/StopThread/model/SynchronizedObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="29" column="37" lean-forward="false" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz/StopThread/StopThread1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="31" column="53" lean-forward="false" selection-start-line="31" selection-start-column="53" selection-end-line="31" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz/StopThread/ReturnStopThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz/suspendTest/SuspendTestThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="749">
-          <caret line="54" column="1" lean-forward="false" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz/suspendTest/SuspendTestThread1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="29" column="18" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="33" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz/suspendTest/model/SynchronizedObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="23" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz/suspendTest/model/MyObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz/suspendTest/SuspendTestThread2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz/yieldTest/YieldTestThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz/priorityTest/PriorityTestThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="20" column="14" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz/priorityTest/PriorityTestThread1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="21" column="25" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz/priorityTest/Run.java">
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synTest/ThreadB.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="263">
-          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz/priorityTest/ThreadA.java">
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synTest/Service.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        <state relative-caret-position="270">
+          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz/priorityTest/Run1.java">
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synCodeBlock4/Service.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-          <folding />
+        <state relative-caret-position="297">
+          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/test1/ThreadB.java">
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synTest1.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synTest/Run.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
+        <state relative-caret-position="351">
+          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/test1/ThreadA.java">
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synTest1/MyList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="17" column="17" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="19" selection-end-column="1" />
+        <state relative-caret-position="290">
+          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz/daemonThread/DaemonTestThread.java">
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synTest1/ThreadA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state relative-caret-position="270">
+          <caret line="16" column="14" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="18" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz/priorityTest/ThreadB.java">
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synTest1/ThreadB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-61">
-          <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        <state relative-caret-position="156">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/test1/HasSelfPrivateNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="10" column="26" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/test1/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/test2/ThreadA.java">
+    <entry file="file://$PROJECT_DIR$/src/ali/tz3/synch/aaa.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synTest1/Run.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/test2/ThreadB.java">
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synTest2.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synTest2/MyOneList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="15" column="20" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
-          <folding />
+        <state relative-caret-position="297">
+          <caret line="11" column="46" lean-forward="false" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/test2/Run.java">
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synTest2/MyThread1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="16" column="20" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synTest2/MyThread2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synTest2/Run.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
+          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/test2/HasSelfPrivateNum.java">
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synTest2/MyService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="19" column="22" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
-          <folding />
+        <state relative-caret-position="108">
+          <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/lockTest/HasSelfPrivateNum.java">
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synBlockLockAll/MyObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-          <folding />
+        <state relative-caret-position="135">
+          <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/lockTest/ThreadA.java">
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synBlockLockAll/ThreadB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synBlockLockAll/Service.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
+          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/lockTest/ThreadB.java">
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synBlockLockAll/ThreadA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="135">
+          <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synBlockLockAll/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synBlockLockAll.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synBlockLockAll/Run2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synBlockLockAll2/ThreadB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synBlockLockAll2/ThreadA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synBlockLockAll2/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synBlockLockAll2/MyObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synBlockLockAll2/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="49" lean-forward="true" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synStaticMethod/ThreadA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding>
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synStaticMethod/ThreadB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding>
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synStaticMethod/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="76" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="9" selection-end-column="78" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/lockTest/Run.java">
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synTowLock/ThreadC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding>
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synStaticMethod/Run.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synTowLock/ThreadB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synTowLock/ThreadA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="19" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synTowLock/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tz2/synch/synTowLock/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
           <folding />
         </state>
       </provider>

@@ -1,7 +1,5 @@
 package com.tz2.synch.test1;
 
-import com.tz2.synch.test1.HasSelfPrivateNum;
-
 /**
  * create by tz on 2018-03-21
  */

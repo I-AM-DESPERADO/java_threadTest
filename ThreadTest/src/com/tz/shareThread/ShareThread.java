@@ -1,7 +1,5 @@
 package com.tz.shareThread;
 
-import com.sun.org.apache.bcel.internal.generic.NEW;
-
 /**
  * create by tz on 2018-03-16
  */
