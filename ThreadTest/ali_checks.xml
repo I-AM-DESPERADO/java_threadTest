@@ -35,7 +35,7 @@
         <module name="LocalFinalVariableName" />
         <!-- 局部的非final型的变量，包括catch中的参数的检查 -->
         <module name="LocalVariableName" />
-        <!-- 包名的检查（只允许小写字母），默认^[a-z]+(\.[a-zA-Z_][a-zA-Z_0-9_]*)*$ -->
+        <!-- 包名的检查（只允许小写字母），默认^[a-z]+(\.[a-z][a-z0-9]*)*$ --><!--^[a-zA-Z]+([.][a-z][a-z0-9]*)[.]*.*-->
         <module name="PackageName">
             <property name="format" value="^[a-z]+(\.[a-z][a-z0-9]*)*$" />
             <message key="name.invalidPattern" value="包名 ''{0}'' 要符合 ''{1}''格式."/>
@@ -161,11 +161,11 @@
         <module name="UncommentedMain">
             <property name="excludedClasses" value=".*[Application,Test]$"/>
         </module>
-        <!-- 禁止使用System.out.println -->
-        <module name="Regexp">
-            <property name="format" value="System\.out\.println"/>
-            <property name="illegalPattern" value="true"/>
-        </module>
+        <!--&lt;!&ndash; 禁止使用System.out.println &ndash;&gt;-->
+        <!--<module name="Regexp">-->
+            <!--<property name="format" value="System\.out\.println"/>-->
+            <!--<property name="illegalPattern" value="true"/>-->
+        <!--</module>-->
         <!-- return个数 3个-->
         <module name="ReturnCount">
             <property name="max" value="3"/>

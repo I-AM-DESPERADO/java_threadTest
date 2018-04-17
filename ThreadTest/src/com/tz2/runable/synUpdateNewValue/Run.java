@@ -12,7 +12,7 @@ public class Run {
             Thread.sleep(1000);
             ThreadB b = new ThreadB(service);
             b.start();
-            System.out.println("已经发起停止命令！");-------
+            System.out.println("已经发起停止命令！");
         } catch (InterruptedException e) {
             e.printStackTrace();
         }

@@ -6,7 +6,7 @@ package com.tz.threadTest;
 public class MyThread extends Thread {
 
     @Override
-    public void run(){
+    public void run() {
         super.run();
         System.out.println("MyThread");
     }
