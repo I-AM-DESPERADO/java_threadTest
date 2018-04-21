@@ -15,7 +15,7 @@ public class SuspendTestThread extends Thread {
 
     @Override
     public void run() {
-        while(true){
+        while (true) {
             i++;
         }
     }

@@ -37,7 +37,7 @@
         <module name="LocalVariableName" />
         <!-- 包名的检查（只允许小写字母），默认^[a-z]+(\.[a-z][a-z0-9]*)*$ --><!--^[a-zA-Z]+([.][a-z][a-z0-9]*)[.]*.*-->
         <module name="PackageName">
-            <property name="format" value="^[a-z]+(\.[a-z][a-z0-9]*)*$" />
+            <property name="format" value="^[a-zA-Z]+([.][a-z][a-z0-9]*)[.]*.*$" />
             <message key="name.invalidPattern" value="包名 ''{0}'' 要符合 ''{1}''格式."/>
         </module>
         <!-- 仅仅是static型的变量（不包括static final型）的检查 -->
